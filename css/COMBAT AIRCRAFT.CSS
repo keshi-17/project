@@ -1,0 +1,114 @@
+.first{
+  background-color:#1746A2;
+  padding: 7% 15%;
+padding-top:0px;
+}
+.collapse{
+  padding-left:200px;
+}
+h1{
+  font-family: 'PT Serif', serif;
+  color: #fff;
+  font-size:50px;
+}
+.btn-1{
+  border-radius: 50%;
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 180px;
+top: 365px;
+}
+.txt-1{
+  position: relative;
+  font-size: 25px;
+  color: #5F9DF7;
+  top: -40px;
+}
+.txt{
+  position: relative;
+  font-size: 25px;
+  color: #5F9DF7;
+  top: -20px;
+}
+.txt-2{
+  position: relative;
+  font-size: 25px;
+  color: #5F9DF7;
+ top: -30px;
+}
+.txt-3{
+  position: relative;
+  font-size: 25px;
+  color: #5F9DF7;
+ top: -5px;
+}
+.btn-2{
+  border-radius: 50%;
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 180px;
+top: 415px;
+}
+.btn-3{
+  border-radius: 50%;
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 180px;
+top: 465px;
+}
+.btn-4{
+  border-radius: 50%;
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 180px;
+top:545px;
+}
+.btn-5{
+  border-radius: 50%;
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 180px;
+top:595px;
+}
+.btn-6{
+  border-radius: 50%;
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 180px;
+top:615px;
+}
+.btn-7{
+  border-radius: 50%;
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 180px;
+top:665px;
+}
+.btn-8{
+  border-radius: 50%;
+  position: absolute;
+width: 40px;
+height: 40px;
+left: 180px;
+top:715px;
+}
+.img{
+  padding-left: 200px;
+  height: 550px;
+}
+#footer{
+  background-color: #fff;
+  text-align: center;
+  padding: 3% 15%;
+}
+.fa-brands:hover{
+  height: 50px;
+  width:50px;
+}

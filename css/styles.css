@@ -1,0 +1,53 @@
+.first{
+  background-color:#1746A2;
+  padding: 3% 15%;
+
+}
+.collapse{
+  padding-left:200px;
+}
+h1{
+  font-family: 'PT Serif', serif;
+  color: #fff;
+  font-size:75px;
+}
+#footer{
+  background-color: #fff;
+  text-align: center;
+  padding: 3% 15%;
+}
+.fa-brands:hover{
+  height: 50px;
+  width:50px;
+}
+
+@media (max-width:768px) {
+.tank-img{
+position: relative;
+top: 400px;
+right: 150px;
+}
+h1{
+  position: relative;
+  font-size: 40px;
+}
+#footer{
+  position: relative;
+  top: 500px;
+}
+}
+@media (max-width:375px) and (max-height:667px) {
+  .tank-img{
+    position: relative;
+    top: 500px;
+    right: 250px;
+  }
+.h1{
+  position: relative;
+  font-size: 75px;
+}
+#footer{
+  position: relative;
+  top: 500px;
+}
+}
